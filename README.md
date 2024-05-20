@@ -13,7 +13,7 @@ Pour installer l'appliance dans GNS3, suivez ces étapes :
      
   2. Une fenêtre s'ouvre, cliquez sur le bouton « import an appliance file » puis sur « click to import appliance» et importer le fichier " cisco-3660.gns3a ".
      
-  3. Une nouvelle fenêtre s'ouvre, cliquez sur  « install the appliance locally », recherchez et importez le fichier d'image que vous avez téléchargé à l'étape 1 , " c3660-jk9o3s-mz.124-25d.image ".
+  3. Une nouvelle fenêtre s'ouvre, cliquez sur  « install the appliance locally », recherchez et importez le fichier d'image que vous avez téléchargé à l'étape 1 , " c3660-jk9o3s-mz.124-25d.image " (n'oubliez pas de le décompresser).
      
   4. Cliquez sur le bouton « create » pour importer l'appliance dans GNS3.
      
